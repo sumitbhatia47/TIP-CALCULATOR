@@ -1,3 +1,3 @@
 <?php
-include "tip calculator.html";
+include "index.html";
 ?>
